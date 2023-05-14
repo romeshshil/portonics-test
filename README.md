@@ -12,7 +12,7 @@ To clone the repository, follow the steps below:
 2. Navigate to the folder where you would like to clone the repository.
 3. Run the following command:
 ```
-git clone https://github.com/romeshshil/portronics-test.git
+git clone https://github.com/romeshshil/portonics-test.git
 ```
 
 ### Configuring the Application
