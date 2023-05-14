@@ -12,9 +12,8 @@ To clone the repository, follow the steps below:
 2. Navigate to the folder where you would like to clone the repository.
 3. Run the following command:
 ```
-git clone https://github.com/<username>/<repository-name>.git
+git clone https://github.com/romeshshil/portronics-test.git
 ```
-Replace `<username>` and `<repository-name>` with the appropriate values for the repository you wish to clone.
 
 ### Configuring the Application
 Before running the application, you will need to configure it. To do this, follow the steps below:
